@@ -1,7 +1,7 @@
 {
   "name": "mapache",
   "description": "mapache theme for ghost by @GodoFredoNinja",
-  "demo": "https://godofredo.ninja",
+  "demo": "https://www.digitalanthropolog.ist",
   "version": "4.0.0",
   "engines": {
     "ghost": ">=4.0.0",
@@ -13,31 +13,17 @@
     "mobile": "assets/images/screenshot-mobile.jpg"
   },
   "author": {
-    "name": "GodoFredoNinja",
-    "email": "hello@godofredo.ninja",
-    "url": "https://godofredo.ninja"
+    "name": "Neal Riley",
+    "email": "contact@digitalanthropolog.ist",
+    "url": "https://www.digitalanthropolog.ist"
   },
-  "gpm": {
-    "type": "theme",
-    "categories": [
-      "Minimal",
-      "Magazine",
-      "Blog"
-    ]
-  },
-  "keywords": [
-    "ghost",
-    "theme",
-    "ghost-theme",
-    "GodoFredoNinja"
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/mapache"
+    "url": "https://github.com/nealriley/digital-anthropologist-theme"
   },
   "bugs": {
-    "url": "https://github.com/godofredoninja/mapache/issues",
-    "email": "hello@godofredo.ninja"
+    "url": "https://github.com/nealriley/digital-anthropologist-theme/issues",
+    "email": "contact@digitalanthropolog.ist"
   },
   "config": {
     "posts_per_page": 15,
